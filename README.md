@@ -17,16 +17,11 @@ _Outlook Windows (installed):_
 1. Open the .ics file.
 2. If a box that pops up asking "Do you want to open this calendar as a new calendar or import its items into your calendar," click Import.
 
-![](https://github.com/user-attachments/assets/a0d49ae6-ad2b-4de7-a035-dea3ef9df6a7)
-
-
 <img src="https://github.com/user-attachments/assets/a0d49ae6-ad2b-4de7-a035-dea3ef9df6a7" width=50% height=50%>
-
-
 
 3. If Step 2 doesn't occur, a window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
 
-![](https://github.com/user-attachments/assets/f16616ec-b210-4c95-852a-cb03a872efb7)
+<img src="https://github.com/user-attachments/assets/f16616ec-b210-4c95-852a-cb03a872efb7" width=50% height=50%>
 
 _Outlook Mac (installed):_
 1.	In Outlook for Mac, at the bottom of the navigation pane, find Calendar.
