@@ -2,7 +2,7 @@
 Instructions on converting .hol to .ics. This allows you to create holiday calendars for Outlook.
 
 Steps (tested on Windows):
-1. Manually update .hol file to have your holidays, an example one is uploaded here.
+1. Manually update .hol file to have your holidays, an example one is uploaded here: https://github.com/svalbard32/convertholtoics/blob/main/Example%202025%20Holidays.hol
 2. (if necessary) Convert from UTF-16 to UTF-8. A tool you can use is: https://www.tbxconvert.gevterm.net/cgi-bin/utf16-utf8.cgi
 3. Rename output file to sti.hol
 4. Install Ruby: https://www.ruby-lang.org/en/documentation/installation/
