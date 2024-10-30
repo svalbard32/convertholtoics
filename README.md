@@ -26,3 +26,4 @@ Outlook Web:
 1.	Save the .hol file to your computer.
 2.	Go here: https://outlook.office.com/calendar/addcalendar
 3.	Click on the Upload from file section, click “Browse” then find the file where you saved it on your computer and click Import.
+![Outlook Web Upload](https://github.com/user-attachments/assets/3c3eab0b-00be-4ad8-ab9f-75afb386ffce)
