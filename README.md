@@ -12,6 +12,7 @@ Instructions on converting .hol to .ics. This allows you to create holiday calen
 8. Run ruby hol2ics.rb sti.hol in there.
 
 **Installing the calendar:**
+
 _Outlook Windows (installed):_
 1. Save the .hol file to your computer and open it.
 2. A window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
