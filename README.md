@@ -19,7 +19,7 @@ _Outlook Windows (installed):_
 
 ![Outlook Windows Step 2](https://github.com/user-attachments/assets/a0d49ae6-ad2b-4de7-a035-dea3ef9df6a7)
 
-4. If Step 2 doesn't occur, a window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
+3. If Step 2 doesn't occur, a window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
 
 ![Outlook Windows Step 3](https://github.com/user-attachments/assets/f16616ec-b210-4c95-852a-cb03a872efb7)
 
