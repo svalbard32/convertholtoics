@@ -1,2 +1,28 @@
 # convertholtoics
-Instructions on converting .hol to .ics
+Instructions on converting .hol to .ics. This allows you to create holiday calendars for Outlook.
+
+Steps (tested on Windows):
+1. Manually update .hol file to have your holidays, an example one is uploaded here.
+2. (if necessary) Convert from UTF-16 to UTF-8. A tool you can use is: https://www.tbxconvert.gevterm.net/cgi-bin/utf16-utf8.cgi
+3. Rename output file to sti.hol
+4. Install Ruby: https://www.ruby-lang.org/en/documentation/installation/
+5. Download hol2ics from here https://github.com/erwdavid/hol2ics and unzip to your Ruby folder.
+6. Run Start Command Prompt with Ruby.
+7. Run cd "your ruby folder location\hol2ics-master" in there.
+8. Run ruby hol2ics.rb sti.hol in there.
+
+Installing the calendar:
+Outlook Windows (installed):
+1. Save the .hol file to your computer and open it.
+2. A window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
+
+Outlook Mac (installed):
+1.	Save the .hol file to your computer.
+2.	In Outlook for Mac, at the bottom of the navigation pane, find Calendar.
+3.	In Finder, locate the .ics file, and drag the .ics file to the Outlook Calendar grid or list.
+4.	Click on Import in the Add Event menu.
+
+Outlook Web:
+1.	Save the .hol file to your computer.
+2.	Go here: https://outlook.office.com/calendar/addcalendar
+3.	Click on the Upload from file section, click “Browse” then find the file where you saved it on your computer and click Import.
