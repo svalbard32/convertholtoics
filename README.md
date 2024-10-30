@@ -31,4 +31,5 @@ _Outlook Mac (installed):_
 _Outlook Web:_
 1.	Go here: https://outlook.office.com/calendar/addcalendar
 2.	Click on the Upload from file section, click “Browse” then find the file where you saved it on your computer and click Import.
+
 ![Outlook Web Upload](https://github.com/user-attachments/assets/3c3eab0b-00be-4ad8-ab9f-75afb386ffce)
