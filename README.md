@@ -14,17 +14,16 @@ Instructions on converting .hol to .ics. This allows you to create holiday calen
 **Installing the calendar:**
 
 _Outlook Windows (installed):_
-1. Save the .hol file to your computer and open it.
-2. A window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
+1. Open the .ics file.
+2. If a box that pops up asking "Do you want to open this calendar as a new calendar or import its items into your calendar," click Import.
+3. If Step 2 doesn't occur, a window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
 
 _Outlook Mac (installed):_
-1.	Save the .hol file to your computer.
-2.	In Outlook for Mac, at the bottom of the navigation pane, find Calendar.
-3.	In Finder, locate the .ics file, and drag the .ics file to the Outlook Calendar grid or list.
-4.	Click on Import in the Add Event menu.
+1.	In Outlook for Mac, at the bottom of the navigation pane, find Calendar.
+2.	In Finder, locate the .ics file, and drag the .ics file to the Outlook Calendar grid or list.
+3.	Click on Import in the Add Event menu.
 
 _Outlook Web:_
-1.	Save the .hol file to your computer.
-2.	Go here: https://outlook.office.com/calendar/addcalendar
-3.	Click on the Upload from file section, click “Browse” then find the file where you saved it on your computer and click Import.
+1.	Go here: https://outlook.office.com/calendar/addcalendar
+2.	Click on the Upload from file section, click “Browse” then find the file where you saved it on your computer and click Import.
 ![Outlook Web Upload](https://github.com/user-attachments/assets/3c3eab0b-00be-4ad8-ab9f-75afb386ffce)
