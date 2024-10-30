@@ -21,7 +21,7 @@ _Outlook Windows (installed):_
 
 3. If Step 2 doesn't occur, a window will pop up in Outlook. Check the box next to the name of the holiday calendar you want to add and click OK.
 
-<img src="https://github.com/user-attachments/assets/f16616ec-b210-4c95-852a-cb03a872efb7" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/f16616ec-b210-4c95-852a-cb03a872efb7" width=25% height=25%>
 
 _Outlook Mac (installed):_
 1.	In Outlook for Mac, at the bottom of the navigation pane, find Calendar.
